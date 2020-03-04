@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Jihye Leee
 baseurl:        ""
-url:            "http://www.jihyeleee.com"
+url:            "https://heyhihello17.github.io/"
 
 # Assets
 sass:
