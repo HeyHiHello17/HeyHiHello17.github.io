@@ -8,7 +8,7 @@ description: Jihye Leee, who is a Digital Product Designer based in Seoul, South
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
+    I'm Hyeji Kim,
     </h1>
     <h1 class="intro">a Digital Product Designer at 
         <div class="intro-link">
@@ -19,7 +19,7 @@ description: Jihye Leee, who is a Digital Product Designer based in Seoul, South
             <div class="underline"></div>
         </div>.
     </h1>
-    <h2 class="intro">'이지혜' 디지털 프로덕트 디자이너입니다. 리디에서 일합니다.</h2>
+    <h2 class="intro">'김혜지' 디자인하는 개발자 입니다</h2>
 </section>
 </div>
 {% include resume.html %}
