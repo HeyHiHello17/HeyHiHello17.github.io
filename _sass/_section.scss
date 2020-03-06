@@ -6,7 +6,10 @@
 
 
 section.explanation {
-    padding-top: 40px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: black;
+    color:white;
     
     @media (max-width: $break-small) {
         padding-top: 20px;
