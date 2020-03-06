@@ -7,7 +7,7 @@ project-header: true
 header-img: img/about.jpg
 ---
 
-<ul class="catalogue">
+<div class="catalogue" style="max-width:750px;margin:0 auto;">
 {% assign sorted = site.pages | sort: 'order' | reverse %}
 {% for page in sorted %}
 {% if page.blog == true %}
